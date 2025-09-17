@@ -1,2 +1,17 @@
-# flutter_app_starter_kit
-A clean and scalable Flutter starter boilerplate with a well-structured folder architecture, theming support, and essential utility functions to kickstart mobile app development efficiently.
+# Flutter Boilerplate
+
+A clean and scalable Flutter starter boilerplate with proper folder structure, theming, and utility functions to kickstart app development.
+
+
+## Features
+- Clean and maintainable architecture  
+- Light and Dark theme support  
+- Reusable utility functions  
+- Ready for API integration  
+
+## Getting Started
+```bash
+git clone https://github.com/your-username/flutter_boilerplate.git
+cd flutter_boilerplate
+flutter pub get
+flutter run
