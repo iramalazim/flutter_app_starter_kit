@@ -11,7 +11,7 @@ A clean and scalable Flutter starter boilerplate with proper folder structure, t
 
 ## Getting Started
 ```bash
-git clone https://github.com/your-username/flutter_boilerplate.git
-cd flutter_boilerplate
+git clone https://github.com/iramalazim/flutter_app_starter_kit.git
+cd flutter_app_starter_kit
 flutter pub get
 flutter run
